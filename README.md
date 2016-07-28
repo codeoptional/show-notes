@@ -1,9 +1,10 @@
 # codeoptional/show-notes
 
-Archived show notes from the Code Optional podcast.
+Archived show notes from the Code Optional podcast. The notes for each episode archived here contain a link to the audio file for the episode.
 
 ## Episodes
 
+- [7: Our first ever guest, designing remotely](7.md)
 - [6: Unfulfilled Promises](6.md)
 - There is no episode 5 (we recorded it but never got around to editing & releasing it).
 - [4: We did talk about Core Data!](4.md)
