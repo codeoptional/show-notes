@@ -4,6 +4,8 @@ Three engineering comrades â€“ Andrew Sardone, Kevin Vitale, and Chris Dzombak â
 
 This repository contains archived show notes from the Code Optional podcast. The notes archived here for each episode contain a link to the audio file for the episode.
 
+- [About](about.md)
+
 ## Episodes
 
 - [7: Our first ever guest, designing remotely](7.md)
