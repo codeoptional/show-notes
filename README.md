@@ -1,6 +1,8 @@
-# codeoptional/show-notes
+# Code Optional: A podcast about the trials and tribulations of building software
 
-Archived show notes from the Code Optional podcast. The notes for each episode archived here contain a link to the audio file for the episode.
+Three engineering comrades – Andrew Sardone, Kevin Vitale, and Chris Dzombak – talk about development, design, and shipping apps. There’s a heavy slant towards Apple tech, balanced with general inquiries around programming and the intricacies/inanities of software.
+
+This repository contains archived show notes from the Code Optional podcast. The notes archived here for each episode contain a link to the audio file for the episode.
 
 ## Episodes
 
